@@ -2,7 +2,7 @@
 
 Introduce my name **Sofyan Setiawan**.
 
-I'm a **Frontend Engineer** at [Cashbac](https://cashbac.com/).
+I'm a **Software Engineer** at [Mekari](https://mekari.com/).
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/sofyan-setiawan-8b323878/) account.
 
